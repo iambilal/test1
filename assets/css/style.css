@@ -1,0 +1,10 @@
+:root{
+    --site-primary-color:#0076ba;
+    --site-secondery-color:#777777;
+}
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
